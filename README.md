@@ -1,2 +1,2 @@
 # Snake
-A simple java applet created to play snake in.
+A simple java application created to play snake in.
